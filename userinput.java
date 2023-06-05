@@ -7,7 +7,6 @@ public class userinput {
         //     for(String i:args){
         //         System.out.println("You entered "+i);
         //     }
-
         // }
         if(args.length > 0){
             System.out.println("Name is "+args[0]);

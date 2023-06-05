@@ -1,0 +1,11 @@
+1. Write a Java program to perform basic Calculator operations.
+2.Write a Java program to calculate a Factorial of a number.
+3. Write a Java program to calculate Fibonacci Series up to n numbers.
+4. Write a Java program to find out whether the given String is Palindrome or not. 
+5. Swapping of 2 variables value.
+6. No is even or odd.
+7. Find Simple interest & compound interest.
+8. Find Area of circle & rectangle.
+9. No is leap year or not.
+10. Find No is prime or not.
+11. Print Fibonacci series.
