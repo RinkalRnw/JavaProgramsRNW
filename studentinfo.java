@@ -1,9 +1,7 @@
 
 class parentClass{    
     int a,b;
-    parentClass(){
-
-    }
+    
     parentClass(int p, int q) {
         this.a = p;
         this.b = q;

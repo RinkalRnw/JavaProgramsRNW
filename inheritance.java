@@ -2,8 +2,7 @@
 class superclass {
     public void dispSup(){
         System.out.println("Superclass method called....");
-    } 
-    
+    }     
 }
 class subclass extends superclass{
     public void dispSub(){
