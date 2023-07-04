@@ -14,7 +14,6 @@ final class pqrChild extends abcTest{
     }
 }
 
-
 public class abstractdemo {
     public static void main(String[] args) {
         abcTest a1;
